@@ -1,2 +1,2 @@
-# belajar-html
+# belajar-remote-github
 belajar git

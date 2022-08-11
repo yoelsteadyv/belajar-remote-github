@@ -7,5 +7,6 @@ div {
 }
 
 #text1 {
-    f: 75%;
+    font-size: 75%;
+    font-family: arial;
 }

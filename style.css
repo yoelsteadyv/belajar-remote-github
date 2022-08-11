@@ -5,3 +5,7 @@ div {
 #headline {
     background-color: red;
 }
+
+#text1 {
+    text.size: "75%";
+}
